@@ -28,4 +28,6 @@
  </a>
 </div>
 
-![snake gif](https://github.com/cl6udzx/cl6udzx/blob/output/github-contribution-grid-snake.gif)
+<br></br>
+
+![Snake animation](https://github.com/cl6udzx/cl6udzx/blob/output/github-contribution-grid-snake.svg)
