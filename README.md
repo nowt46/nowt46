@@ -16,17 +16,6 @@
 
 <br></br> 
 
-### 💻 &nbsp; Operating system (OS) 
-
---- 
-
-<div> <img alt="Daniel-Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
-<img alt="Daniel-windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
-<img alt="Daniel-Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-<img alt="Daniel-ArchLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> 
-<img alt="Daniel-KaliLinux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> </div> 
-
-<br></br> 
 
 ### 🖍 &nbsp;Design 
 --- 
