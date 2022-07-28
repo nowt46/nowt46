@@ -27,3 +27,5 @@
 <a href="https://twitter.com/MrK40209173"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"style="max-width: 100%;">
  </a>
 </div>
+
+![snake gif](https://github.com/cl6udzx/cl6udzx/blob/output/github-contribution-grid-snake.gif)
