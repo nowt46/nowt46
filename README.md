@@ -1,5 +1,5 @@
 
-<img align="center" width="600" height="295" src="assets/carbon.png">
+<img align="center" width="580" height="295" src="assets/carbon.png">
 
 ---
 
