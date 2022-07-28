@@ -4,28 +4,6 @@
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl6udzx&layout=compact&langs_count=7&theme=midnight-purple"/> 
 </div> 
 
-### 🛠 &nbsp;Languages and Tools 
-
---- 
-<div style="display: inline_block"><br> 
-<img align="center" alt="Daniel-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img align="center" alt="Daniel-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img align="center" alt="Daniel-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img align="center" alt="Daniel-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
-<img align="center" alt="Daniel-Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> </div> 
-
-<br></br> 
-
-
-### 🖍 &nbsp;Design 
---- 
-
-<div> 
-<img alt="Daniel-AffterAffects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"> 
-<img alt="Daniel-Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> 
-<img alt="Daniel-Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> <img alt="Daniel-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> </div> 
-
-<br></br> 
 
 ### 👨‍💻&nbsp;IDE 
 
