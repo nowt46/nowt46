@@ -1,5 +1,7 @@
-# Hey there, welcome to my GitHub page! 
+<img src="assets/carbon.png">
+
 ---
+
 <div align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cl6udzx&&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl6udzx&layout=compact&langs_count=7&theme=midnight-purple"/> 
 </div> 
