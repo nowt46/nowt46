@@ -1,11 +1,11 @@
 
-<img align="center" width="580" height="285" src="assets/carbon.png">
+<img align="center" width="600" height="290" src="assets/carbon.png">
 
 ---
 
-<div align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cl6udzx&&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl6udzx&layout=compact&langs_count=7&theme=github_dark"/> 
-</div> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=cl6udzx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl6udzx&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
 
 ### 👨‍💻&nbsp;IDE 
