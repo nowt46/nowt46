@@ -1,6 +1,5 @@
 
-<img align="center" width="600" height="290" src="assets/carbon.png">
-
+Hi!
 ---
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cl6udzx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
