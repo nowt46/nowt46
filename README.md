@@ -7,9 +7,10 @@
 
 ---
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=cl6udzx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl6udzx&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+ <br/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="cl6udzx Github Stats" src="https://github-readme-stats.vercel.app/api?username=cl6udzx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/cl6udzx/github-readme-stats"><img alt="cl6udzx Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl6udzx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 
 ### 👨‍💻&nbsp;IDE 
