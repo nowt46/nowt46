@@ -7,9 +7,9 @@
 
 
 ---
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cl6udzx&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"/>
- <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl6udzx&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-</div>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl6udzx&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 
  
 
