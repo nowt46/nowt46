@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 - 🌱 Daily learning something new
+- ⚡ Fun fact <b>i like playing Terraria</b>
 - 📫 Reach me: [instagram.com/cl6udzx](https://www.instagram.com/cl6udzx/)
 
 
