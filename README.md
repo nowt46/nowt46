@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 🌱 Daily learning something new
-- ⚡ Fun fact..don't know
+- ⚡ Fun fact...<a>don't know</a>
 - 📫 Reach me: [@cl6udzx](https://www.instagram.com/cl6udzx/)
 
 
