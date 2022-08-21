@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 - 🌱 Daily learning something new
-- ⚡ Fun fact <b><a>Terraria</a> is one of my favourite games!</b>
+- ⚡ Fun fact..don't know
 - 📫 Reach me: [@cl6udzx](https://www.instagram.com/cl6udzx/)
 
 
