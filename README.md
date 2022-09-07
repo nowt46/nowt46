@@ -4,8 +4,9 @@
 - 🌱 Daily learning something <b>new</b>
 - :computer:     I like to explore anything, <b>the curiosity</b> to know how things work under the hood attracts me!
 - 📫 Reach me: [@cl6udzx](https://www.instagram.com/cl6udzx/)
-
-![Totals Hits](https://komarev.com/ghpvc/?username=cl6udzx&style=flat&color=orange&label=PROFILE+VIEWS) 
+<a href="https://discord.gg/eGqrjKj74Q">
+<img border="0" src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" width="40" height="40">
+</a>
 
 ---
 
