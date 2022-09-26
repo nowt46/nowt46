@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 - 🌱 Daily learning something <b>new</b>
+- :eyes: I’m looking to <b>collaborate</b> with other people
 - :computer:     I like to explore anything, <b>the curiosity</b> to know how things work under the hood attracts me!
 - 📫 Reach me: [@cl6udzx](https://www.instagram.com/cl6udzx/)
 <a href="https://discord.gg/74RPbd9qYq">
