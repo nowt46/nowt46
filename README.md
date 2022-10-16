@@ -5,11 +5,6 @@
 - :eyes: I’m looking to <b>collaborate</b> with other people
 - :computer:     I like to explore anything, <b>the curiosity</b> to know how things work under the hood attracts me!
 - 📫 Reach me: [@cl6udzx](https://www.instagram.com/cl6udzx/)
-<a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/cl6udzx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/cl6udzx?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/cl6udzx?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 ---
 
