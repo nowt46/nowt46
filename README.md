@@ -1,10 +1,10 @@
 
- # Hi there 👋 
+ #  Welcome to my github! 
  
-- 🌱 I'm currently learning **everything** 😂
+- 🌱 I'm currently learning **everything**.
 - :eyes: I’m looking to **collaborate** with other people.
 - :computer:     I like to explore anything, the curiosity to know how things work under the hood attracts me!
-- 📫 Reach me: [@cl6udzx](https://www.instagram.com/cl6udzx/)
+- 📫 Reach me at: [@cl6udzx](https://www.instagram.com/cl6udzx/)
 
 #
 
