@@ -11,7 +11,7 @@
 
 <!--- My current stats---> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cl6udzx&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cl6udzx&theme=transparent&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 #
 ![Snake animation](https://github.com/cl6udzx/cl6udzx/blob/output/github-contribution-grid-snake.svg)
