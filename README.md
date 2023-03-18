@@ -11,8 +11,7 @@
 
 <!--- My current stats---> 
 
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=cl6udzx&show_icons=true&count_private=true&theme=omni&hide_border=true&bg_color=0D1117"" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=cl6udzx&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 #
 ![Snake animation](https://github.com/cl6udzx/cl6udzx/blob/output/github-contribution-grid-snake.svg)
