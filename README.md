@@ -1,5 +1,4 @@
-#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=cascadia+code&pause=1000&color=82AAFF&width=435&lines=Hi+there%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
- 
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=cascadia+code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
 <!---Introduction text---> 
 
 - 🌱 I'm currently learning **JavaScript**.
