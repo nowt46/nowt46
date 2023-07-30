@@ -1,5 +1,4 @@
-#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Serif&pause=400&color=F7F7F7&center=true&width=435&lines=Hi+there%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
-
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&duration=3000&pause=300&color=F7F7F7&width=435&lines=Hello+there%F0%9F%91%8B;+welcome+to+my+github+profile!;cya...)](https://git.io/typing-svg)
 <!---Introduction text---> 
 
 - 🌱 I'm currently taking the **CS50's Introduction to Computer Science** course.
