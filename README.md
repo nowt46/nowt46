@@ -2,10 +2,10 @@
 
 <!---Introduction text---> 
 
-- 🌱 I'm currently learning **JavaScript**.
+- 🌱 I'm currently taking the **CS50's Introduction to Computer Science** course.
 - :eyes: I’m looking to **collaborate** with other people.
 - :computer:     I like to explore anything, the curiosity to know how things work under the hood attracts me!
-- 📫 Reach me at: [@cl6udzx](https://www.instagram.com/nowt46/)
+- 📫 Reach me at: [@nowt46](https://www.instagram.com/nowt46/)
 
 #
 
