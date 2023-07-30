@@ -11,6 +11,6 @@
 
 <!--- My current stats---> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nowt46&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&ring=EBEBEB&dates=EBEBEB&currStreakLabel=063C89&sideNums=EBEBEB&sideLabels=063C89&currStreakNum=063C89&border=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nowt46&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&ring=EBEBEB&dates=EBEBEB&currStreakLabel=063C89&sideNums=EBEBEB&sideLabels=063C89&currStreakNum=063C89)](https://git.io/streak-stats)
 #
 ![Snake animation](https://github.com/cl6udzx/cl6udzx/blob/output/github-contribution-grid-snake.svg)
