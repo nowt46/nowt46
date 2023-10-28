@@ -2,7 +2,7 @@
 
 <!---Introduction text---> 
 
-- 🌱 I'm currently taking the **CS50's Introduction to Computer Science** course.
+I make mods for terraria
 - :eyes: I’m looking to **collaborate** with other people.
 - :computer:     I like to explore anything, the curiosity to know how things work under the hood attracts me!
 #
