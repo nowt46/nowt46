@@ -2,8 +2,6 @@
 
 <!---Introduction text---> 
 
-I make mods for terraria
-- :eyes: I’m looking to **collaborate** with other people.
 - :computer:     I like to explore anything, the curiosity to know how things work under the hood attracts me!
 #
 ![Snake animation](https://github.com/cl6udzx/cl6udzx/blob/output/github-contribution-grid-snake.svg)
